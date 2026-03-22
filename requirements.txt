@@ -1,0 +1,7 @@
+streamlit
+openai-whisper
+spacy
+textblob
+pandas
+fpdf2
+audio-recorder-streamlit
